@@ -1,1 +1,1 @@
-I did [sql-practise.com](https://www.sql-practice.com/) s exercises medium hard and easy
+I did [sql-practise.com](https://www.sql-practice.com/) s exercises medium and easy
